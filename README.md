@@ -1,6 +1,6 @@
-# ADOBE_PREMIERE_PRO_2022_PROXY_HAACK
+# ADOBE PREMIERE PRO 2022 PROXY Guide
 
-ADOBE_PREMIERE_PRO_2022_PROXY_HAACK
+
 
 These are the exact settings you need to get your computer editing even the highest resolution video super fast in Premiere Pro.
 
@@ -18,20 +18,10 @@ last clip.
 6. Check the Add Watermark box
 7. Leave the destination as Next To Original Media, in prox folder
 8. Press OK
-9. Premiere will open media encoder and begin rendering proxies for all of your
-video clips. Depending on the number of clips you have and the speed of your
-computer this could take a while. Consider creating proxies overnight if
-necessary.
-10.Once proxies are created, enable them by clicking the “Toggle Proxies” icon in
-the Program panel. If you do not see the Toggle Proxies icon, click the plus icon
-in the bottom right of the panel and click and drag the Toggle Proxies Icon down
-next to the play button in the bottom middle of the panel.
-11. Your proxies will now be enabled and your footage will playback very smoothly.
-Check the proxy watermark in the bottom left of your video clip and the proxy
-icon on the clip in the timeline to ensure the proxies are enabled.
-12.When exporting your finished video file, you do not need to disable proxies,
-Premiere will do that automatically and use your native video files when
-exporting.
+9. Premiere will open media encoder and begin rendering proxies for all of your video clips. Depending on the number of clips you have and the speed of your computer this could take a while. Consider creating proxies overnight if necessary.
+10.Once proxies are created, enable them by clicking the “Toggle Proxies” icon in the Program panel. If you do not see the Toggle Proxies icon, click the plus icon in the bottom right of the panel and click and drag the Toggle Proxies Icon down next to the play button in the bottom middle of the panel.
+   11. Your proxies will now be enabled and your footage will playback very smoothly. Check the proxy watermark in the bottom left of your video clip and the proxy icon on the clip in the timeline to ensure the proxies are enabled.
+   12.When exporting your finished video file, you do not need to disable proxies, Premiere will do that automatically and use your native video files when exporting.
 
 HOW TO BATCH SLOW MOTION AND SAVE TIME
 
